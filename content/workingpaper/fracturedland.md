@@ -1,7 +1,7 @@
 +++
 title = "The Fractured-Land Hypothesis"
 date = 2020-09-22T09:25:31+08:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["With Jesús Fernández-Villaverde, Mark Koyama, and Tuan-Hwee Sng"]
@@ -15,7 +15,7 @@ authors = ["With Jesús Fernández-Villaverde, Mark Koyama, and Tuan-Hwee Sng"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -30,12 +30,6 @@ image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -62,10 +56,3 @@ math = false
 # Does this page require source code highlighting? (true/false)
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
-
-+++
