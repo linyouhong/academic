@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Guangzhou. My current research interests are in the field of development economics, political economics and economic history. 
+​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Guangzhou. My current research interests are in the field of development economics, economic history, and health economics. 
 
-In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the importance of water resource for health and economic development. Disease and Economic Development is also my interested field.
+In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the importance of water resource for health and economic development. Disease and economic development is also my interested field.

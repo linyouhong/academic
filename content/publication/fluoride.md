@@ -1,10 +1,10 @@
 +++
-title = "Indoor air quality and health: Empirical evidence from fluoride pollution in China (forthcoming)"
+title = "Indoor air quality and health: Empirical evidence from fluoride pollution in China"
 date = 2019-02-22T09:25:31+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["With Liu, Feng"]
+authors = ["Youhong Lin","Feng Liu"]
 
 # Publication type.
 # Legend:

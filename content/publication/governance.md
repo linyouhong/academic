@@ -4,7 +4,7 @@ date = 2016-07-01T10:13:43+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["With Li Nan"]
+authors = ["Nan Li","Youhong Lin"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["With Li Nan"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Economic Research Journal"
+publication = "Economic Research Journal (Chinese)"
 publication_short = ""
 
 # Abstract and optional shortened version.
