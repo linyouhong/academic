@@ -1,10 +1,10 @@
 +++
-title = "Indoor air quality and health: Empirical evidence from fluoride pollution in China (forthcoming)"
-date = 2019-02-22T09:25:31+08:00
-draft = false
+title = "The Fractured-Land Hypothesis"
+date = 2020-09-22T09:25:31+08:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["With Liu, Feng"]
+authors = ["With Jesús Fernández-Villaverde, Mark Koyama, and Tuan-Hwee Sng"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["With Liu, Feng"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "China Economic Review"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this paper we conducted an econometric analysis to investigate the impacts of fluoride pollution on health. Burning high-fluoride-content coal indoors is the primary source of fluoride pollution in Guizhou Province of China. Exploiting longitudinal data from China Health and Nutrition Survey, we applied individual fixed effect models and triple difference models to examine the effects of whether households use coal as domestic fuel. The results showed that fluoride pollution from coal burning significantly increases the diastolic and systolic blood pressure levels of adults. And the pollution also leads to higher likelihood of underweight. Our further analysis indicated that fluoride pollution from coal burning during the infant period greatly reduces the height and weight of children in their childhood and adolescence periods. We also explore the mechanism by investigating the influence of fluoride pollution exposure on birthweight and find evidence that fluoride pollution had a negative impact on prenatal development."
+abstract = "Patterns of political unification and fragmentation have crucial implications for comparative economic development. Diamond (1997) famously argued that “fractured land” was responsible for China's tendency toward political unification and Europe's protracted political fragmentation. We build a dynamic model with granular geographical information in terms of topographical features and the location of productive agricultural land to quantitatively gauge the effects of “fractured land” on state formation in Eurasia. We find that either topography or productive land alone is sufficient to account for China's recurring political unification and Europe's persistent political fragmentation. The existence of a core region of high land productivity in Northern China plays a central role in our simulations. We discuss how our results map into observed historical outcomes and assess how robust our findings are."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Appendix", url = "appendix/governanceSW.pdf"}]
+url_custom = [{name = "Download", url = "https://www.nber.org/papers/w27774"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
