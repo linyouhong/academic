@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lin.youhong@foxmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: 
