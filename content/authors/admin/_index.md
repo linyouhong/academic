@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Youhong Lin (林友宏)
+title: Youhong Lin
 
 # Username (this should match the folder name)
 authors:
