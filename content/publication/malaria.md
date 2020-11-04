@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Appendix", url = "appendix/governanceSW.pdf"}]
+url_custom = [{name = "Appendix", url = "malariaappendix.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
