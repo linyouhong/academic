@@ -22,7 +22,7 @@ publication = "China Economic Quarterly (Chinese)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper studies the effects of malaria control on the health of pregnant women and infants in 1960s and 1970s China by using the China In-depth Fertility Survey of Guangdong. By using a difference-in-difference model, this paper finds the probability of pregnant failure and infant mortality in the highly endemic regions decreased more significantly than the low endemic regions because of the malaria control. In addition, the probability for pregnant failure in the highly endemic season also dropped more significantly in this period. Therefore, the control of malaria laid a good foundation for China¡¯s economic development by improving public health greatly."
+abstract = "This paper studies the effects of malaria control on the health of pregnant women and infants in 1960s and 1970s China by using the China In-depth Fertility Survey of Guangdong. By using a difference-in-difference model, this paper finds the probability of pregnant failure and infant mortality in the highly endemic regions decreased more significantly than the low endemic regions because of the malaria control. In addition, the probability for pregnant failure in the highly endemic season also dropped more significantly in this period. Therefore, the control of malaria laid a good foundation for China's economic development by improving public health greatly."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
