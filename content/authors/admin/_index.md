@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Guangdong University of Foreign Studies
+- name: School of Economics, Xiamen University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Guangzhou. My current research interests are in the field of development economics, economic history, and health economics. 
+​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Xiamen University. My current research interests are in the field of development economics, economic history, and health economics. 
 
 In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the importance of water resource for health and economic development. Disease and economic development is also my interested field.
