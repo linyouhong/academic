@@ -1,6 +1,6 @@
 +++
-title = "The Retreat of the Miasma: An Empirical Study on the Effects of China's Malaria Control on Public Health (accepted)"
-date = 2019-02-22T09:25:31+08:00
+title = "The Retreat of the Miasma: An Empirical Study on the Effects of China's Malaria Control on Public Health"
+date = 2021-05-22T09:25:31+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
