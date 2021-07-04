@@ -18,7 +18,6 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Economic History
@@ -73,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Xiamen University. My current research interests are in the field of development economics, economic history, and health economics. 
+​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and began my first academic position in Guangdong University of Foreign Studies. Now, I continue my academic career in Xiamen University. My current research interests are in the field of development economics, economic history, and health economics. 
 
 In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the importance of water resource for health and economic development. Disease and economic development is also my interested field.
