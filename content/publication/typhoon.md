@@ -3,7 +3,7 @@
 
 title: "Long-Term Effects of Early-Life Exposure to Tropical Cyclones"
 authors: ["Youhong Lin","Feng Liu","Peng Xu"]
-date: 2020-04-22T10:16:59+08:00
+date: 2021-07-21T10:16:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2020-10-01T10:16:59+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "China Economic Review"
 publication_short: ""
 
-abstract: "This study evaluated the long-term effects of early-life exposure to tropical cyclones on the socioeconomic performance of individuals. The data of individuals born in the coastal provinces in East and South China in 1963–1993 were merged with typhoon tracking data according to the birth time and place of each individual to identify significantly negative effects of gestational typhoon exposure on the educational attainment and annual income in adulthood. The effects were stronger for women than for men. The negative effects of typhoons became less significant after the rural reform, indicating that economic growth is crucial in mitigating the effects of natural disasters. Typhoon exposure was determined to increase pregnancy failure, suggesting that the long-term effects may be attributable to the detrimental effects of typhoon exposure on fetal development. Typhoon damage to agricultural production is also a potential cause."
+abstract: "This study evaluates the long-run effects of early-life exposure to tropical cyclones on the socioeconomic performance of individuals in China. We identify significantly negative effects of gestational typhoon exposure on the educational attainment and annual income in adulthood, which also exhibit a significant gender inequality favoring the male. Despite the small culling effects from pregnancy failure and infant mortality, gestational typhoon exposures increase the probability of having a younger sibling and shorten the subsequent birth interval. Typhoon damage to the health and economic abilities of adults, as well as the local economy indicates a channel of household economic status for the reduced long-run socioeconomic outcomes."
 
 # Summary. An optional shortened abstract.
 summary: ""
