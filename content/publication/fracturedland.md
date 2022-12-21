@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-  url: "http://dx.doi.org/10.2139/ssrn.3682342"
+#  url: "http://dx.doi.org/10.2139/ssrn.3682342"
 #   icon_pack: fab
 #   icon: twitter
 
