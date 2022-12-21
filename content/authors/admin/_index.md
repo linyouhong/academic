@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016. Currently, I am pursuing my academic career as an economics professor at Xiamen University. My research interests are in the field of development economics, economic history, and political economics. 
+​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016. Currently, I am pursuing my academic career as an economics professor at Xiamen University. My research interests are in the fields of development economics, economic history, and political economics. 
