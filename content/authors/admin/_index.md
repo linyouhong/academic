@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016. Currently, I pursue my academic career in Xiamen University as an economic professor. My research interests are in the field of development economics, economic history, and political economics. 
-
-In recent years, I attempt to solve the puzzle of unified China and divided Europe.  ​I also study the economic history of China. State capacity and economic development is also my interested field.
+​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016. Currently, I am pursuing my academic career as an economics professor at Xiamen University. My research interests are in the field of development economics, economic history, and political economics. 
