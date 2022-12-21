@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Economics, Xiamen University
+- name: School of Economics & WISE, Xiamen University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
