@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Fractured-Land Hypothesis"
+title: "The Fractured-Land Hypothesis (Accepted by QJE)"
 authors: ["Jesús Fernández-Villaverde","Mark Koyama", "Youhong Lin", "Tuan-Hwee Sng"]
 date: 2020-09-22T10:16:59+08:00
 doi: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#  url: "https://www.nber.org/papers/w27774"
+  url: "http://dx.doi.org/10.2139/ssrn.3682342"
 #   icon_pack: fab
 #   icon: twitter
 
