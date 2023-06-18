@@ -3,7 +3,7 @@
 
 title: "The Fractured-Land Hypothesis"
 authors: ["Jesús Fernández-Villaverde","Mark Koyama", "Youhong Lin", "Tuan-Hwee Sng"]
-date: 2020-09-22T10:16:59+08:00
+date: 2023-05-01T10:16:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
