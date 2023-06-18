@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Fractured-Land Hypothesis (Accepted by QJE)"
+title: "The Fractured-Land Hypothesis"
 authors: ["Jesús Fernández-Villaverde","Mark Koyama", "Youhong Lin", "Tuan-Hwee Sng"]
 date: 2020-09-22T10:16:59+08:00
 doi: ""
@@ -13,13 +13,13 @@ publishDate: 2020-10-01T10:16:59+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "The Quarterly Journal of Economics"
+publication_short: "QJE"
 
-abstract: "Patterns of political unification and fragmentation have crucial implications for comparative economic development. Diamond (1997) famously argued that “fractured land” was responsible for China's tendency toward political unification and Europe's protracted political fragmentation. We build a dynamic model with granular geographical information in terms of topographical features and the location of productive agricultural land to quantitatively gauge the effects of “fractured land” on state formation in Eurasia. We find that either topography or productive land alone is sufficient to account for China's recurring political unification and Europe's persistent political fragmentation. The existence of a core region of high land productivity in Northern China plays a central role in our simulations. We discuss how our results map into observed historical outcomes and assess how robust our findings are."
+abstract: "Patterns of state formation have crucial implications for comparative economic development. Diamond (1997) famously argued that “fractured land” was responsible for China’s tendency toward political unification and Europe’s protracted polycentrism. We build a dynamic model with granular geographical information in terms of topographical features and the location of productive agricultural land to quantitatively gauge the effects of fractured land on state formation in Eurasia. We find that topography alone is sufficient but not necessary to explain polycentrism in Europe and unification in China. Differences in land productivity, in particular the existence of a core region of high land productivity in northern China, deliver the same result. We discuss how our results map into observed historical outcomes, assess how robust our findings are, and analyze the differences between theory and data in Africa and the Americas."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#  url: "http://dx.doi.org/10.2139/ssrn.3682342"
+  url: "https://doi.org/10.1093/qje/qjad003"
 #   icon_pack: fab
 #   icon: twitter
 
