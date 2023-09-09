@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Fractured-Land Hypothesis"
-authors: [Jesús Fernández-Villaverde","Mark Koyama", "Youhong Lin", "Tuan-Hwee Sng"]
-date: 2023-05-01T10:16:59+08:00
+title: "Semi-dwarf Rice Revolution and Demographic Dynamics in Collective-Era China"
+authors: ["Youhong Lin"]
+date: 2023-09-01T10:16:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2023-05-01T10:16:59+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Quarterly Journal of Economics"
-publication_short: "QJE"
+publication: ""
+publication_short: ""
 
-abstract: "Patterns of state formation have crucial implications for comparative economic development. Diamond (1997) famously argued that “fractured land” was responsible for China’s tendency toward political unification and Europe’s protracted polycentrism. We build a dynamic model with granular geographical information in terms of topographical features and the location of productive agricultural land to quantitatively gauge the effects of fractured land on state formation in Eurasia. We find that topography alone is sufficient but not necessary to explain polycentrism in Europe and unification in China. Differences in land productivity, in particular the existence of a core region of high land productivity in northern China, deliver the same result. We discuss how our results map into observed historical outcomes, assess how robust our findings are, and analyze the differences between theory and data in Africa and the Americas."
+abstract: "China's rapid population growth after 1949 has crucial implications for its economy. This study examines the impact of semi-dwarf rice on population dynamics during the collective era. Results show that the introduction of semi-dwarf rice significantly increased grain production and reduced the death rate, while leaving the birth rate unaffected. Semi-dwarf rice caused a larger decline in the death rate for counties under high population pressure, suggesting that it improved health by alleviating hunger. The rural population was able to benefit from semi-dwarf rice because of stable procurement rates and increased grain prices."
 
 # Summary. An optional shortened abstract.
 summary: ""
